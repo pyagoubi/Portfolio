@@ -6,5 +6,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 In this project I have used different models to predict the likelihood of default for customers. The project contains Explorative Data Analysis, Feature Engineering training and predicting default probabilities.
 
-Skills and tools used: 
+Skills and tools used:
+
 **XGBoost**, **LightGBM**
