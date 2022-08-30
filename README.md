@@ -16,3 +16,11 @@ This project includes different models to provide personalized suggestions to di
 
 Skills and tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 
+### 
+
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/image-recognition-header.jpg"> **[CNN Housing Number/ Image Recognition](https://github.com/pyagoubi/Data-Science-Program/blob/main/CNN.ipynb)**
+
+In this project the SVHN (Street View Housing Number Digit Recognition) dataset was used to build a convolutional neural network (CNN) to detect houring numbers.
+
+Skills and tools used: **CNN, Tensorflow, image recognition**
+
