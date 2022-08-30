@@ -8,3 +8,9 @@ In this project I have used different models to predict the likelihood of defaul
 
 Skills and tools used: **EDA, XGBoost**, **LightGBM**
 
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/rec.jpg"> **[Recommendation System](https://github.com/pyagoubi/Data-Science-Program/blob/main/Amazon_Recommendation_Systems.ipynb)**
+
+This project includes different models to provide personalized suggestions to different users. Recommendations were generated based on previous ratings for other products.
+
+Skills and tools used: **EDA, Rank Based Recommendation System, Collaborative Filtering Recommendation System, SVD/ Matrix Factorization**
+
