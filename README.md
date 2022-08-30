@@ -13,5 +13,5 @@ Skills and tools used: **EDA, XGBoost**, **LightGBM**
 
 This project includes different models to provide personalized suggestions to different users. Recommendations were generated based on previous ratings for other products.
 
-Skills and tools used: **EDA, Rank Based Recommendation System, Collaborative Filtering Recommendation System, SVD/ Matrix Factorization**
+Skills and tools used: **EDA, Rank Based Recommendation System, Collaborative Filtering, SVD/ Matrix Factorization**
 
