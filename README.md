@@ -22,5 +22,5 @@ Skills and tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization
 
 In this project the SVHN (Street View Housing Number Digit Recognition) dataset was used to build a convolutional neural network (CNN) to detect houring numbers.
 
-Skills and tools used: **CNN, Tensorflow, image recognition**
+Skills and tools used: **CNN, Tensorflow, Image Recognition**
 
