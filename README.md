@@ -8,7 +8,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <br>
 <br>
-<br>
 
 #
 
