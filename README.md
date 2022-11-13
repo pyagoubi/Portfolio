@@ -6,7 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
 
-Skills and tools used: **HuggingFace, DeBERTa**, **BERT**
+Tools used: **HuggingFace, DeBERTa**, **BERT**
 
 # 
 
@@ -14,14 +14,14 @@ Skills and tools used: **HuggingFace, DeBERTa**, **BERT**
 
 In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%.  
 
-Skills and tools used: **EDA, XGBoost**, **LightGBM**
+Tools used: **EDA, XGBoost**, **LightGBM**
 
 #
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/rec.jpeg"> **[Recommendation System](https://github.com/pyagoubi/Data-Science-Program/blob/main/Amazon_Recommendation_Systems.ipynb)**
 
 This project includes different models to provide personalized suggestions to different users. Recommendations were generated based on previous ratings for other products.
 
-Skills and tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
+Tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 
 #    
 
@@ -29,5 +29,5 @@ Skills and tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization
 
 In this project the SVHN (Street View Housing Number Digit Recognition) dataset was used to build a convolutional neural network (CNN) to detect houring numbers.
 
-Skills and tools used: **CNN, Tensorflow, Image Recognition**
+Tools used: **CNN, Tensorflow, Image Recognition**
 
