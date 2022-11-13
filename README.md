@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
 
 ## Projects
-<img align="left" width="250" height="150" src="https://storage.googleapis.com/kaggle-media/competitions/The%20Learning%20Agency/LabLogo_Kaggle.png"> **[Kaggle Competition: English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
+<img align="left" width="250" height="150" src="[https://storage.googleapis.com/kaggle-media/competitions/The%20Learning%20Agency/LabLogo_Kaggle.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Ft%2F1600%2F480%2F0*2t3JCdtfsV2M5S_B.png&f=1&nofb=1&ipt=b8a9ab0ade2667a72cee9d4357b02b993b06a9ed7aec91152254232353957fe6&ipo=images)"> **[Kaggle Competition: English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
 
 In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
 
