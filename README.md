@@ -12,7 +12,7 @@ Skills and tools used: **HuggingFace, DeBERTa**, **BERT**
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/cc.jpg"> **[Kaggle Competition: Credit Default Prediction (American Express)](https://github.com/pyagoubi/Credit-Default-Prediction)**
 
-In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%. The project contains Explorative Data Analysis, Feature Engineering training and predicting default probabilities. 
+In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%.  
 
 Skills and tools used: **EDA, XGBoost**, **LightGBM**
 
