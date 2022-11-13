@@ -8,7 +8,7 @@ In this project I have used NLP models to assess the language proficiency of 8th
 
 Skills and tools used: **HuggingFace, DeBERTa**, **BERT**
 
-###  
+# 
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/cc.jpg"> **[Kaggle Competition: Credit Default Prediction (American Express)](https://github.com/pyagoubi/Credit-Default-Prediction)**
 
@@ -24,13 +24,6 @@ This project includes different models to provide personalized suggestions to di
 Skills and tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 
 ###       
-
-
-
-
-
-
-
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/image-recognition-header.jpg"> **[CNN Housing Number/ Image Recognition](https://github.com/pyagoubi/Data-Science-Program/blob/main/CNN.ipynb)**
 
