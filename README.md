@@ -7,10 +7,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 (In progress)
 
 <br>
-
-
-
-
+<br>
 #
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[Kaggle Competition: English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
