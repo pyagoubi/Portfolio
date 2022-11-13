@@ -2,10 +2,10 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
 
 ## Projects
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/thumbnail.png"> **[Kaggle Competition: Otto Recommendations System]()**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/thumbnail.png"> **[Kaggle Competition: Otto Recommendations System](https://github.com/pyagoubi/Otto)**
 
 (In progress)
-hhghg
+
 
 #
 
