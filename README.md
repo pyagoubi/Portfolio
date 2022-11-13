@@ -5,8 +5,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/thumbnail.png"> **[Kaggle Competition: Otto Recommendations System]()**
 
 (In progress)
-
-
+hhghg
 
 #
 
