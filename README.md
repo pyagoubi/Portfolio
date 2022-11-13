@@ -2,6 +2,13 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
 
 ## Projects
+<img align="left" width="250" height="150" src="https://storage.googleapis.com/kaggle-media/competitions/The%20Learning%20Agency/LabLogo_Kaggle.png"> **[Kaggle Competition: English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
+
+In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
+
+Skills and tools used: **HuggingFace, DeBERTa**, **BERT**
+
+###  
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/cc.jpg"> **[Kaggle Competition: Credit Default Prediction (American Express)](https://github.com/pyagoubi/Credit-Default-Prediction)**
 
 In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%. The project contains Explorative Data Analysis, Feature Engineering training and predicting default probabilities. 
