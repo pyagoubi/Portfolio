@@ -2,6 +2,14 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
 
 ## Projects
+<img align="left" width="250" height="150" src="https://storage.googleapis.com/kaggle-organizations/3827/thumbnail.png"> **[Kaggle Competition: Otto Recommendations System]()**
+
+(In progress)
+
+
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[Kaggle Competition: English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
 
 In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
