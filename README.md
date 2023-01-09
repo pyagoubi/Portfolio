@@ -4,7 +4,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Projects
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/thumbnail.png"> **[Kaggle Competition: Otto Recommendations System](https://github.com/pyagoubi/Otto)**
 
-I have used a BERT model for sequential recommendation (based on https://arxiv.org/abs/1904.06690)
+I have used a BERT model for sequential recommendation (based on https://arxiv.org/abs/1904.06690).
 
 Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
