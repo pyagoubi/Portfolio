@@ -13,7 +13,7 @@ Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[Kaggle Competition: English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
 
 In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
 
@@ -21,7 +21,7 @@ Tools used: **HuggingFace, DeBERTa**, **BERT**
 
 # 
 
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/cc.jpg"> **[Kaggle Competition: Credit Default Prediction (American Express)](https://github.com/pyagoubi/Credit-Default-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/cc.jpg"> **[Credit Default Prediction (American Express)](https://github.com/pyagoubi/Credit-Default-Prediction)**
 
 In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%.  
 
