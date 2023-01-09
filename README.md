@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
 
 ## Projects
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/thumbnail.png"> **[Recommendations System for Ecommerce(Otto)](https://github.com/pyagoubi/Otto)**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/thumbnail.png"> **[Recommendations System for E-commerce(Otto)](https://github.com/pyagoubi/Otto)**
 
 I have used a BERT model for sequential recommendation (based on https://arxiv.org/abs/1904.06690).
 
