@@ -28,6 +28,14 @@ In this project I have used different models to predict the likelihood of defaul
 Tools used: **EDA, XGBoost**, **LightGBM**
 
 #
+
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/stock.jpeg"> **[LSTM Stock Price Prediction](https://github.com/pyagoubi/Stock-Prediction-LSTM)**
+
+Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices. 
+
+Tools used: **LSTM, Stacking**
+
+#
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/rec.jpeg"> **[Recommendation System](https://github.com/pyagoubi/Data-Science-Program/blob/main/Amazon_Recommendation_Systems.ipynb)**
 
 This project includes different models to provide personalized suggestions to different users. Recommendations were generated based on previous ratings for other products.
