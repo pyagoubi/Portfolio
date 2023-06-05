@@ -56,6 +56,8 @@ Tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 Analysis of geodata to extract information about motorcycle race behaviour
 
 Tools used: **Geopandas, Geopy**
+<br>
+<br>
 
 #    
 
