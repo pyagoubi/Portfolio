@@ -9,6 +9,7 @@ I have used a BERT model for sequential recommendation (based on https://arxiv.o
 Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 <br>
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
