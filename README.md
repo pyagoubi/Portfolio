@@ -35,6 +35,8 @@ Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices.
 
 Tools used: **LSTM, Stacking**
 <br>
+<br>
+<br>
 #
 <br>
 
