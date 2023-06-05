@@ -46,6 +46,17 @@ This project includes different models to provide personalized suggestions to di
 
 Tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 
+
+#
+
+
+
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/motorcycle.jpeg"> **[Geodata Motorcycle Analysis](https://github.com/pyagoubi/Motorcycle-data/blob/main/Motorcycle.ipynb)**
+
+Analysis of geodata to extract information about motorcycle race behaviour
+
+Tools used: **Geopandas, Geopy**
+
 #    
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/image-recognition-header.jpg"> **[CNN Housing Number/ Image Recognition](https://github.com/pyagoubi/Data-Science-Program/blob/main/CNN.ipynb)**
