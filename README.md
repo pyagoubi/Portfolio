@@ -36,6 +36,8 @@ Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices.
 Tools used: **LSTM, Stacking**
 <br>
 #
+<br>
+
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/rec.jpeg"> **[Recommendation System](https://github.com/pyagoubi/Data-Science-Program/blob/main/Amazon_Recommendation_Systems.ipynb)**
 
