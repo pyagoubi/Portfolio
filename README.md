@@ -8,9 +8,7 @@ I have used a BERT model for sequential recommendation (based on https://arxiv.o
 
 Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
-
-
-
+<br>
 #
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
@@ -46,10 +44,7 @@ This project includes different models to provide personalized suggestions to di
 
 Tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 
-
 #
-
-
 
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/motorcycle.jpeg"> **[Geodata Motorcycle Analysis](https://github.com/pyagoubi/Motorcycle-data/blob/main/Motorcycle.ipynb)**
 
