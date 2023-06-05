@@ -8,7 +8,7 @@ I have used a BERT model for sequential recommendation (based on https://arxiv.o
 
 Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
-<br>
+
 <br>
 
 #
