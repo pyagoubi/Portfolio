@@ -10,7 +10,7 @@ Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 <br>
 #
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/w2v.jpg"> **[]Word 2 Vec based recommendation systems(https://github.com/pyagoubi/Word2Vec-based-recommendation-engines/tree/master)**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/w2v.jpg"> **[Word 2 Vec based recommendation systems](https://github.com/pyagoubi/Word2Vec-based-recommendation-engines/tree/master)**
 
 In this project I use Word2Vec to create 1) similarity based and 2) session based recommendations based on Word2Vec.
 
