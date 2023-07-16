@@ -9,31 +9,6 @@ I have used a BERT model for sequential recommendation (based on https://arxiv.o
 Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 <br>
-#
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/w2v.jpg">
-
-**[Word2Vec based recommendation engines](https://github.com/pyagoubi/Word2Vec-based-recommendation-engines)**
-
-In this project I use Word2Vec to create 1) similarity based and 2) session based recommendations based on Word2Vec.
-
-Tools used: **Word2Vec**
-
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
-
-In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
-
-Tools used: **HuggingFace, DeBERTa**, **BERT**
-
-# 
-
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/cc.jpg"> **[Credit Default Prediction (American Express)](https://github.com/pyagoubi/Credit-Default-Prediction)**
-
-In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%.  
-
-Tools used: **EDA, XGBoost**, **LightGBM**
 
 #
 
@@ -44,6 +19,34 @@ Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices.
 Tools used: **LSTM, Stacking**
 <br>
 <br>
+
+
+#
+
+
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/w2vec.jpg">
+
+**[Word2Vec based recommendation engines](https://github.com/pyagoubi/Word2Vec-based-recommendation-engines)**
+
+In this project I use Word2Vec to create 1) similarity based and 2) session based recommendations based on Word2Vec.
+
+Tools used: **Word2Vec**
+
+# 
+
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/cc.jpg"> **[Credit Default Prediction (American Express)](https://github.com/pyagoubi/Credit-Default-Prediction)**
+
+In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%.  
+
+Tools used: **EDA, XGBoost**, **LightGBM**
+
+#
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
+
+In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
+
+Tools used: **HuggingFace, DeBERTa**, **BERT**
+
 #
 
 
