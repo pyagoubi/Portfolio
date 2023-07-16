@@ -4,13 +4,14 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Projects
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/thumbnail.png"> **[Recommendations System for E-commerce(Otto)](https://github.com/pyagoubi/Otto)**
 
-I have used a BERT model for sequential recommendation (based on https://arxiv.org/abs/1904.06690).
+I have used a BERT model for sequential recommendation (based on https://arxiv.org/abs/1904.06690). 
 
 Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 <br>
 #
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/w2v.jpg"> **[https://github.com/pyagoubi/Word2Vec-based-recommendation-engines/tree/master](https://github.com/pyagoubi/Word2Vec-based-recommendation-engines)**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/w2v.jpg">  
+**[Word2Vec based recommendation engines](https://github.com/pyagoubi/Word2Vec-based-recommendation-engines)**
 
 In this project I use Word2Vec to create 1) similarity based and 2) session based recommendations based on Word2Vec.
 
