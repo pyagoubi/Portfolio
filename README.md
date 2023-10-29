@@ -11,15 +11,11 @@ Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 
 #
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
 
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/stock.jpeg"> **[LSTM Stock Price Prediction](https://github.com/pyagoubi/Stock-Prediction-LSTM)**
+In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
 
-Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices. 
-
-Tools used: **LSTM, Stacking**
-<br>
-<br>
-
+Tools used: **HuggingFace, DeBERTa**, **BERT**
 
 #
 
@@ -41,12 +37,13 @@ In this project I have used different models to predict the likelihood of defaul
 Tools used: **EDA, XGBoost**, **LightGBM**
 
 #
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/stock.jpeg"> **[LSTM Stock Price Prediction](https://github.com/pyagoubi/Stock-Prediction-LSTM)**
 
-In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
+Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices. 
 
-Tools used: **HuggingFace, DeBERTa**, **BERT**
-
+Tools used: **LSTM, Stacking**
+<br>
+<br>
 #
 
 
