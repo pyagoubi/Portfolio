@@ -6,16 +6,21 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 I have used a BERT model for sequential recommendation (based on https://arxiv.org/abs/1904.06690). 
 
-Tools used:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
+Main tools:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 
+#
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[Talk to your data chatbot](https://github.com/pyagoubi/AIChatbot-with-langchain-agents/tree/main)**
 
+Use langchain agents to talk to your data and receive the answer as a bar chart, line graph or table. You require a valid OpenAI Key.
+
+Main tools:  **Langchain**, **Tkinter**, **OpenAIAPI**
 #
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
 
 In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
 
-Tools used: **HuggingFace, DeBERTa**, **BERT**
+Main tools: **HuggingFace, DeBERTa**, **BERT**
 
 #
 
@@ -26,7 +31,7 @@ Tools used: **HuggingFace, DeBERTa**, **BERT**
 
 In this project I use Word2Vec to create 1) similarity based and 2) session based recommendations based on Word2Vec.
 
-Tools used: **Word2Vec**
+Main tools: **Word2Vec**
 
 # 
 
@@ -34,14 +39,14 @@ Tools used: **Word2Vec**
 
 In this project I have used different models to predict the likelihood of default for customers scoring in the top 16%.  
 
-Tools used: **EDA, XGBoost**, **LightGBM**
+Main tools: **EDA, XGBoost**, **LightGBM**
 
 #
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/stock.jpeg"> **[LSTM Stock Price Prediction](https://github.com/pyagoubi/Stock-Prediction-LSTM)**
 
 Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices. 
 
-Tools used: **LSTM, Stacking**
+Main tools: **LSTM, Stacking**
 <br>
 <br>
 #
@@ -52,7 +57,7 @@ Tools used: **LSTM, Stacking**
 
 This project includes different models to provide personalized suggestions to different users. Recommendations were generated based on previous ratings for other products.
 
-Tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
+Main tools: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 
 #
 
@@ -60,7 +65,7 @@ Tools used: **EDA, Collaborative Filtering, SVD/ Matrix Factorization**
 
 Analysis of geodata to extract information about motorcycle race behaviour
 
-Tools used: **Geopandas, Geopy**
+Main tools: **Geopandas, Geopy**
 <br>
 <br>
 
