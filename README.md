@@ -10,12 +10,17 @@ Main tools:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 
 #
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[Talk to your data chatbot](https://github.com/pyagoubi/AIChatbot-with-langchain-agents/tree/main)**
+
+
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/talking-to-data-714084915"> **[Talk to your data chatbot](https://github.com/pyagoubi/AIChatbot-with-langchain-agents/tree/main)**
 
 Use langchain agents to talk to your data and receive the answer as a bar chart, line graph or table. You require a valid OpenAI Key.
 
 Main tools:  **Langchain**, **Tkinter**, **OpenAIAPI**
+
 #
+
+
 <img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/wm.png"> **[English Language Learning](https://github.com/pyagoubi/kaggle-Feedback-Prize)**
 
 In this project I have used NLP models to assess the language proficiency of 8th-12th grade English Language Learners.
