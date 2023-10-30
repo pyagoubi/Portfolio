@@ -12,7 +12,11 @@ Main tools:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 
 
-   
+
+
+
+
+           
 
 
 #
