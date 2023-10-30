@@ -19,7 +19,7 @@ Main tools:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 Use langchain agents to talk to your data and receive the answer as a bar chart, line graph or table. You require a valid OpenAI Key.
 
-Main tools:  **Langchain**, **Tkinter**, **OpenAIAPI**
+Main tools:  **Langchain**, **Tkinter**, **OpenAI-API**
 
 #
 
