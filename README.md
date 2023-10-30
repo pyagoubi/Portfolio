@@ -10,7 +10,7 @@ I have used a BERT model for sequential recommendation (based on https://arxiv.o
 
 Main tools:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
-
+-----------
 #
 
 
