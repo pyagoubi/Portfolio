@@ -6,6 +6,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 I have used a BERT model for sequential recommendation (based on https://arxiv.org/abs/1904.06690). 
 
+
+
 Main tools:  **BERT**, **BERT4Rec**, **Word2Vec**, **Pytorch Lightning**
 
 
