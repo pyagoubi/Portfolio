@@ -47,7 +47,7 @@ In this project I have used different models to predict the likelihood of defaul
 Main tools: **EDA, XGBoost**, **LightGBM**
 
 #
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/__results___39_0.png"> **[LSTM Stock Price Prediction](https://github.com/pyagoubi/Stock-Prediction-LSTM)**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/stock.jpeg"> **[LSTM Stock Price Prediction](https://github.com/pyagoubi/Stock-Prediction-LSTM)**
 
 Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices. 
 
@@ -55,7 +55,8 @@ Main tools: **LSTM, Stacking**
 <br>
 <br>
 #
-**[Image segmentation]([https://github.com/pyagoubi/Stock-Prediction-LSTM](https://github.com/pyagoubi/Image-Segmentation/tree/main))**
+
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/Screenshot%202024-09-22%20201258.png"> **[Image segmentation]([https://github.com/pyagoubi/Stock-Prediction-LSTM](https://github.com/pyagoubi/Image-Segmentation/tree/main))**
 
 Main tools: **Pytorch, Unet, Efficientnet**
 
