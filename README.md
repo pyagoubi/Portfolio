@@ -56,7 +56,7 @@ Main tools: **LSTM, Stacking**
 <br>
 #
 
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/Screenshot%202024-09-22%20201258.png"> **[Image segmentation]([https://github.com/pyagoubi/Stock-Prediction-LSTM](https://github.com/pyagoubi/Image-Segmentation/tree/main))**
+<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/Screenshot%202024-09-22%20201258.png"> **[Image segmentation](https://github.com/pyagoubi/Image-Segmentation)**
 
 Main tools: **Pytorch, Unet, Efficientnet**
 
