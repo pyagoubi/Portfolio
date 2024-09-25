@@ -54,13 +54,6 @@ Using a combined LSTM-1d and LSTM-30min model to predict 1d stock prices.
 Main tools: **LSTM, Stacking**
 <br>
 <br>
-#
-
-<img align="left" width="250" height="150" src="https://github.com/pyagoubi/Portfolio/blob/main/images/Screenshot%202024-09-22%20201258.png"> **[Image segmentation](https://github.com/pyagoubi/Image-Segmentation)**
-
-Main tools: **Pytorch, Unet, Efficientnet**
-
-<br>
 
 #
 
